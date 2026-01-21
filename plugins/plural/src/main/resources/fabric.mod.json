@@ -1,0 +1,36 @@
+{
+	"schemaVersion": 1,
+	"id": "dough-plural",
+	"version": "${version}",
+	"name": "Doughmination Plural",
+	"description": "This is a mod for users to proxy their alters in Minecraft",
+	"authors": [
+		"doughmination"
+	],
+	"contact": {
+		"homepage": "https://modding.doughmination.win",
+		"sources": "https://github.com/Doughmination-Systems"
+	},
+	"license": "Estrogen Source-Available Licence",
+	"icon": "assets/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": ["win.doughmination.DoughPluralMain"]
+	},
+	"mixins": [
+		"dough-plural.mixins.json",
+		{
+			"config": "dough-plural.client.mixins.json",
+			"environment": "client"
+		}
+	],
+	"depends": {
+		"fabricloader": ">=0.16.10",
+		"minecraft": "~1.21.4",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
