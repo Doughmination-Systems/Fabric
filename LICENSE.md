@@ -1,11 +1,10 @@
-# The Doughnut Licence
+# The Estrogen Source-Available Licence
 
-**Version 1.0**
+**Version 1.4**
 
-This Licence may be referred to as the **Doughnut Licence (DL)**.
-This specific version may be referred to as **DL-1.0**.
+This Licence may be referred to as the **Estrogen Source-Available Licence (ESAL)**. This specific version may be referred to as **ESAL‑1.4**.
 
-Copyright © 2026 **Doughmination**.
+Copyright © 2026 Clove Nytrix Doughmination Twilight.
 
 ---
 
@@ -21,7 +20,7 @@ Non-commercial use includes, but is not limited to, personal use, academic use, 
 
 All copies or substantial portions of the Software must include the above copyright notice and this Licence.
 
-Attribution to **“Doughmination”** must be maintained in a reasonable and visible manner in source code distributions and in accompanying documentation.
+Attribution to **“Clove Nytrix Doughmination Twilight”** must be maintained in a reasonable and visible manner in source code distributions and in accompanying documentation.
 
 ---
 
@@ -29,13 +28,13 @@ Attribution to **“Doughmination”** must be maintained in a reasonable and vi
 
 You may not misrepresent the origin of the Software.
 
-Modified versions must be clearly identified as modified and must not be presented as being authored, endorsed, or distributed by Doughmination without prior written permission.
+Modified versions must be clearly identified as modified and must not be presented as being authored, endorsed, or distributed by Clove Nytrix Doughmination Twilight without prior written permission.
 
 ---
 
 ## 3. Commercial Use Restriction
 
-The Software may not be used, in whole or in part, for any commercial purpose without a separate, written commercial licence granted by Doughmination.
+The Software may not be used, in whole or in part, for any commercial purpose without a separate, written commercial licence granted by Clove Nytrix Doughmination Twilight.
 
 For the purposes of this Licence, *commercial use* includes, but is not limited to:
 
@@ -54,13 +53,15 @@ Commercial licensing terms (including fees and/or revenue-sharing arrangements) 
 
 Any individual or organisation wishing to use the Software for a commercial purpose must obtain a separate, written commercial licence.
 
-Requests for commercial licensing must be made via contact details designated by Doughmination.
+Requests for commercial licensing must be made via email to:
 
-Commercial licence terms may include fees, revenue-sharing arrangements, usage limitations, or other conditions, and are granted solely at the discretion of Doughmination.
+**[admin@doughmination.win](mailto:admin@doughmination.win)**
+
+Commercial licence terms may include fees, revenue-sharing arrangements, usage limitations, or other conditions, and are granted solely at the discretion of Clove Nytrix Doughmination Twilight.
 
 ### 4.2 Pre-Authorised Commercial Licensees
 
-Doughmination may maintain a file named **allowed_people.md** listing individuals or organisations that have been granted permission to use the Software commercially.
+Clove Nytrix Doughmination Twilight may maintain a file named **allowed_people.md** listing individuals or organisations that have been granted permission to use the Software commercially.
 
 If **allowed_people.md** is present and lists a party, that listing constitutes evidence of an active commercial licence, subject to any terms specified therein.
 
@@ -72,28 +73,28 @@ If **allowed_people.md** does **not** exist, or if a party is not listed within 
 
 ### 5.1 Definition
 
-For the purposes of this Licence, **“Trademarked Components”** means any names, systems, frameworks, identifiers, branding, terminology, logos, marks, or distinctive elements that are protected by trademark or otherwise designated as trademarked by Doughmination, whether registered or unregistered, now existing or created in the future.
+For the purposes of this Licence, **“Trademarked Components”** means any names, systems, frameworks, identifiers, branding, terminology, logos, marks, or distinctive elements that are protected by trademark or otherwise designated as trademarked by Clove Nytrix Doughmination Twilight, whether registered or unregistered, now existing or created in the future.
 
 Trademarked Components include, but are not limited to, any elements that are:
 
 * explicitly identified as trademarks;
 * referenced as part of a branded system, methodology, or product line;
 * required for compatibility with, recognition of, or association with a trademarked offering;
-* reasonably understood to indicate origin, endorsement, or branding by Doughmination.
+* reasonably understood to indicate origin, endorsement, or branding by Clove Nytrix Doughmination Twilight.
 
 ### 5.2 Ownership and Listed Trademarks
 
-This Licence does not grant permission to use any trademarks, trade names, service marks, or logos associated with Doughmination.
+This Licence does not grant permission to use any trademarks, trade names, service marks, or logos associated with Clove Nytrix Doughmination Twilight.
 
-The following trademarks are currently claimed or owned by Doughmination:
+The following trademarks are currently claimed or owned by Clove Nytrix Doughmination Twilight:
 
 * **Doughmination System®** (United Kingdom, UK00004263144)
 
-This list is **non-exhaustive**. Any future trademarks, trademark applications, or unregistered marks designated by Doughmination are automatically considered Trademarked Components under this Licence.
+This list is **non-exhaustive**. Any future trademarks, trademark applications, or unregistered marks designated by Clove Nytrix Doughmination Twilight are automatically considered Trademarked Components under this Licence.
 
 ### 5.3 Restriction on Modification and Reuse
 
-Any Trademarked Components, and any Software components that are connected to, rely upon, implement, enable, or are designed to operate in conjunction with such Trademarked Components, **may not be modified, adapted, reworked, extracted, repurposed, or redistributed**, in whole or in part, without prior written permission from Doughmination.
+Any Trademarked Components, and any Software components that are connected to, rely upon, implement, enable, or are designed to operate in conjunction with such Trademarked Components, **may not be modified, adapted, reworked, extracted, repurposed, or redistributed**, in whole or in part, without prior written permission from Clove Nytrix Doughmination Twilight.
 
 This includes both direct modification and indirect modification through derivative works, abstractions, renaming, or functional equivalents that preserve the trademarked identity or system.
 
@@ -113,15 +114,15 @@ IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMA
 
 ## 7. No Endorsement or Affiliation
 
-Use of the Software does not imply endorsement, sponsorship, affiliation, or approval by Doughmination.
+Use of the Software does not imply endorsement, sponsorship, affiliation, or approval by Clove Nytrix Doughmination Twilight.
 
-You may not state or suggest that Doughmination endorses, certifies, supports, or is affiliated with any project, product, service, or derivative work without prior written permission.
+You may not state or suggest that Clove Nytrix Doughmination Twilight endorses, certifies, supports, or is affiliated with any project, product, service, or derivative work without prior written permission.
 
 ---
 
 ## 8. No Compatibility or Certification Claims
 
-You may not claim or imply that the Software, or any modified or derivative version thereof, is compatible with, certified by, approved by, or officially associated with any trademarked system or offering of Doughmination, including any Trademarked Components, without express written authorisation.
+You may not claim or imply that the Software, or any modified or derivative version thereof, is compatible with, certified by, approved by, or officially associated with any trademarked system or offering of Clove Nytrix Doughmination Twilight, including any Trademarked Components, without express written authorisation.
 
 ---
 
@@ -129,7 +130,7 @@ You may not claim or imply that the Software, or any modified or derivative vers
 
 No rights or permissions are granted under this Licence except those expressly stated.
 
-Any use of the Software beyond the scope of this Licence requires prior written permission from Doughmination.
+Any use of the Software beyond the scope of this Licence requires prior written permission from Clove Nytrix Doughmination Twilight.
 
 ---
 
@@ -143,7 +144,7 @@ It is **not** an open-source licence as defined by the Open Source Initiative, a
 
 ## 11. Revocation of Commercial Licences
 
-Doughmination reserves the right to revoke any granted commercial licence at any time, with or without cause, subject to any written terms agreed with the commercial licensee.
+Clove Nytrix Doughmination Twilight reserves the right to revoke any granted commercial licence at any time, with or without cause, subject to any written terms agreed with the commercial licensee.
 
 Upon revocation, all commercial use of the Software must cease immediately unless otherwise agreed in writing.
 
@@ -152,3 +153,17 @@ Upon revocation, all commercial use of the Software must cease immediately unles
 ## 12. Governing Law (Trademark Matters)
 
 All matters relating to trademarks, Trademarked Components, and trademark enforcement under this Licence shall be governed by and construed in accordance with the laws of **England and Wales**, without regard to conflict-of-law principles.
+
+---
+
+## 13. Derivative Licences
+
+Creation of a licence derived from, based upon, or substantially similar to this Licence (the **Estrogen Source-Available Licence**) is permitted **only with prior written permission** from Clove Nytrix Doughmination Twilight.
+
+Where such permission has been granted, any derivative licence must include clear attribution stating that it is **derived from or based on the Estrogen Source-Available Licence (ESAL)** and must credit **Clove Nytrix Doughmination Twilight** as the original author of the base licence.
+
+Attribution must appear in a reasonably visible location within the derivative licence text, such as within the header, preamble, or licence notice.
+
+Permission to create a derivative licence may include additional terms, conditions, or limitations as specified in the written authorisation.
+
+Nothing in this section grants permission to create derivative licences without such written authorisation.
